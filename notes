@@ -1,0 +1,36 @@
+FRONTEND
+- HTML
+	HyperText Markup Language
+	Defines the structure of a webpage
+		"Put an image here"
+		"Put a form here"
+	The "nouns" of a webpage
+
+--------------------------------------
+
+- CSS
+	Cascading Style Sheets
+	Defines the style of HTML
+		"make all text purple"
+		"give the first image a yellow border"
+	The "adjectives" of a webpage
+--------------------------------------
+
+- JavaScript
+	Adds logic and interactivity to a page
+		"Do some math"
+		"Change color when the user clicks"
+		"Load new data from twitter"
+	The actinos or "verbs" of a webpage
+
+
+--------------------------------------
+
+FrontEnd vs BackEnd
+- Front End is the stuff that you see and interact with: HTML, CSS and JS;
+- Static pages wont change;
+- Dynamic pages changes (Backend interaction);
+
+----------------------------------------
+
+http://codepen.io/Colt/pen/WQQVvE
